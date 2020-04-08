@@ -1,7 +1,0 @@
-{
-  "projects": {
-    "default": "andrew-photo-wall-react-app",
-    "photo-app": "andrew-photo-wall-react-app",
-    "photowall-app": "andrew-photo-wall-react-app"
-  }
-}
